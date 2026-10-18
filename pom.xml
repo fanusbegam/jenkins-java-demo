@@ -3,4 +3,5 @@
   <groupId>com.fanus</groupId>
   <artifactId>jenkins-java-demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <packaging>war</packaging>
 </project>
